@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">zad22zad2var5</string>
+    <string name="textmainactiv">Добро пожаловать</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Войти</string>
+</resources>
